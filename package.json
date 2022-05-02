@@ -8,7 +8,7 @@
 		"time",
 		"ui"
 	],
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"license": "MIT",
 	"author": {
 		"name": "Patrick Knabe",
@@ -26,8 +26,12 @@
 		"node-red-dashboard": ">=2.23.2"
 	},
 	"node-red": {
+		"version": ">=2.0.0",
 		"nodes": {
 			"ui_digital_clock": "clock.js"
 		}
+	},
+	"engines": {
+		"node": ">=12.0.0"
 	}
 }

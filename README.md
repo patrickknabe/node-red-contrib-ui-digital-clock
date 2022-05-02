@@ -26,9 +26,9 @@ npm i node-red-contrib-ui-digital-clock
 
 [MIT](LICENSE)
 
-## Miscellaneous
+## Projects
 
-Also take a look at my other dashboard items:
+Also take a look at my other dashboard projects:
 
 ### [node-red-contrib-ui-clock](https://github.com/patrickknabe/node-red-contrib-ui-clock)
 
